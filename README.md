@@ -15,7 +15,7 @@ https://github.com/parcel-bundler/parcel/
 ## Uses
 
 ```bash
-> git clone https://github.com/madeinfree/parcel-demo.git && cd parcel-demo
+> git clone https://github.com/madeinfree/parcel-react-demo.git && cd parcel-react-demo
 > yarn
 > parcel index.html
 
